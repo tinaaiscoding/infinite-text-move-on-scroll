@@ -1,0 +1,22 @@
+.hero_wrap {
+  height: 100vh;
+  background-image: url('../../public/images/spiral-star-trail.jpg');
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+}
+
+.hero_slider {
+}
+
+.hero_heading {
+  font-size: 15rem;
+  color: white;
+  font-weight: 600;
+  text-wrap: nowrap;
+}
+
+.next_section {
+  height: 100vh;
+  background-color: #041f32;
+}
